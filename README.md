@@ -75,3 +75,9 @@ This project answers questions like:
 ## Dataset Source 
 - Kaggle (https://www.kaggle.com/datasets/abdurrehmankhalid/delayedflights)
 
+## Open Notebook in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/prathamkumarr/Analyzing-Airline-Delays/blob/main/Airlines_delay_dataset.ipynb)
+
+
