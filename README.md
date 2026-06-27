@@ -229,11 +229,12 @@ jupyter notebook python/Analyzing_Airlines_delays.ipynb
 ```
 
 ### Dataset
-The original dataset is the **2008 Airline On-Time Performance** dataset from the US Bureau of Transportation Statistics. Due to file size, it is not included in this repo. Download from [BTS Website](https://www.transtats.bts.gov/DL_SelectFields.aspx).
-
+    The original dataset is the **DelayedFlights** dataset sourced from Kaggle.
+    Due to file size, it is not included in this repo.
+    Download from [Kaggle — DelayedFlights by Abdur Rehman Khalid](https://www.kaggle.com/datasets/abdurrehmankhalid/delayedflights).
 ---
 
-## 👤 Author
+## Author
 
 **Pratham Kumar**
 GitHub: [prathamkumarr](https://github.com/prathamkumarr)
