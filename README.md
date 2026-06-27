@@ -229,9 +229,10 @@ jupyter notebook python/Analyzing_Airlines_delays.ipynb
 ```
 
 ### Dataset
-    The original dataset is the **DelayedFlights** dataset sourced from Kaggle.
-    Due to file size, it is not included in this repo.
-    Download from [Kaggle — DelayedFlights by Abdur Rehman Khalid](https://www.kaggle.com/datasets/abdurrehmankhalid/delayedflights).
+The original dataset is the **DelayedFlights** dataset sourced from Kaggle.
+Due to file size, it is not included in this repo.
+Download from [Kaggle — DelayedFlights by Abdur Rehman Khalid](https://www.kaggle.com/datasets/abdurrehmankhalid/delayedflights).
+
 ---
 
 ## Author
