@@ -2,7 +2,7 @@
 
 A multi-layer end-to-end data analysis project examining **1.15 million US domestic flights** to uncover the root causes of airline delays, identify systemic patterns, and surface actionable insights for airline operations.
 
-> ** Live Dashboards →** [View on Tableau Public](https://public.tableau.com/app/profile/pratham.kumar5320/viz/US_Airline_Delay_Analysis_2008/Executive_Overview)
+**Live Dashboards →** [View on Tableau Public](https://public.tableau.com/app/profile/pratham.kumar5320/viz/US_Airline_Delay_Analysis_2008/Executive_Overview)
 
 ---
 
